@@ -16,6 +16,18 @@
 
 ---
 
+## 📊 GitHub Analytics
+ 
+<div align="center">
+<img src="https://github-readme-stats-fast.vercel.app/api?username=PorJang&show_icons=true&theme=tokyonight&hide_border=true"height="165" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=PorJang&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+<br/><br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=PorJang&theme=react-dark&hide_border=true" width="100%" />
+</div>
+
+---
+
+
 ### 📫 Connect with Me
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/1E7Jgo2kGC/?mibextid=wwXIfr)
