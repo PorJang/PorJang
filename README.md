@@ -4,14 +4,14 @@
 - 🎓 Computer Science Student at University of Phayao **<span type="placeholder" placeholder-type="place"></span>**
 - 💡 Interested in **Web Development**
 - 🎯 Current Goal: Learning Full-Stack Development and Cloud-Native Applications
-- 💬 Ask me about **JavaScript, Python**
+- 💬 Ask me about **Java, Python**
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 #### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
